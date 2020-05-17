@@ -1,0 +1,1 @@
+The sendfile function is only for english text¡£This is a test. This is a test.
